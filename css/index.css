@@ -1,0 +1,161 @@
+@import url(../styles/fonts.css);
+@import url(../styles/global.css);
+.site-header {
+  margin-top: 43px;
+  margin-bottom: 34px;
+}
+.site-header .site-header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-header .site-header__container .header-main {
+  display: flex;
+  align-items: center;
+  gap: 57px;
+}
+.site-header .site-header__container ul {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+.site-header .site-header__container li {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+.site-header .site-header__container a {
+  font-family: "Kumbh Sans";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  color: #69707D;
+}
+
+.header-hero {
+  display: flex;
+  align-items: center;
+  gap: 46px;
+}
+
+.header-end {
+  margin-top: 34px;
+  width: 1110px;
+  height: 1px;
+  border-bottom: 1px solid #E4E9F2;
+}
+
+.hero {
+  margin-top: 90px;
+  margin-bottom: 132px;
+}
+.hero .hero__container {
+  display: flex;
+  gap: 125px;
+}
+
+.hero-left {
+  width: 445px;
+}
+
+.hero-img {
+  margin-top: 32px;
+  display: flex;
+  gap: 31px;
+}
+
+.hero-right {
+  width: 445px;
+}
+.hero-right h6 {
+  text-transform: uppercase;
+  font-family: "Kumbh Sans";
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16.12px;
+  text-align: left;
+  color: #FF7E1B;
+  margin-bottom: 27px;
+}
+.hero-right h2 {
+  width: 445px;
+  font-family: "Kumbh Sans";
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  color: #1D2026;
+  margin-bottom: 32px;
+}
+.hero-right p {
+  width: 445px;
+  font-family: "Kumbh Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  color: #69707D;
+  margin-bottom: 28px;
+}
+.hero-right .hero-btn {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.hero-right .hero-btn h3 {
+  width: 106px;
+  font-family: "Kumbh Sans";
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 34.73px;
+  text-align: left;
+  color: #1D2026;
+}
+.hero-right .hero-btn button {
+  width: 51px;
+  border-radius: 6px;
+  padding: 7px 8px 4px 8px;
+  border: none;
+  background-color: #FFEEE2;
+  font-family: "Kumbh Sans";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.84px;
+  text-align: left;
+  color: #FF7E1B;
+}
+
+.hero-main {
+  display: flex;
+}
+.hero-main h2 {
+  margin-top: 10px;
+  font-family: "Kumbh Sans";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: left;
+  color: #B6BCC8;
+  text-decoration: line-through;
+}
+
+.hero-two__btn {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.hero-two__btn .two-btn {
+  width: 272px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 19px 76px 18px 77px;
+  background-color: #FF7E1B;
+  border-radius: 10px;
+  font-family: "Kumbh Sans";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.84px;
+  color: #FFFFFF;
+}/*# sourceMappingURL=index.css.map */
